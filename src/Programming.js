@@ -8,7 +8,7 @@ export default function Programming() {
       percetage: 50,
     },
     {
-      text: "React JS",
+      text: "Java",
       percetage: 80,
     },
     {
@@ -16,7 +16,7 @@ export default function Programming() {
       percetage: 80,
     },
     {
-      text: "Flutter",
+      text: "Python",
       percetage: 80,
     },
     {
